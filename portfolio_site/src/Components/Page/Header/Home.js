@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import ParticlesBg  from "particles-bg";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCaretDown, faCaretRight, faArrowRight, faArrowDown } from '@fortawesome/free-solid-svg-icons';
 
 class Home extends Component{
 
@@ -39,7 +41,13 @@ class Home extends Component{
                 <h3>{description}.</h3>
                 <hr />
                 <ul className="social">
-                   <a href="#about" className="smoothscroll button btn project-btn">View my work</a>
+                  <div id="project-btn">
+                     <a  href="#about" className="smoothscroll">View my work
+                     &ensp;
+                     <FontAwesomeIcon icon={faArrowRight} size="sm"/>
+                    
+                     </a>
+                     </div> 
                 </ul>
              </div>
           </div>

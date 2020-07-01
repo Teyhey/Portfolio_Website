@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ParticlesBg from 'particles-bg'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 class Contact extends Component {
   render() {
