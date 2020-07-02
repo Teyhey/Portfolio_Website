@@ -1,11 +1,14 @@
 import React, { Component } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 
 class Footer extends Component {
   render() {
-
     if(this.props.data){
       var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+        return <li key={network.name}><a href={network.url}>
+          <FontAwesomeIcon icon={['fab', network.className]}/>
+          </a></li>
       })
     }
 
