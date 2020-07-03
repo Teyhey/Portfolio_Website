@@ -2,9 +2,9 @@
   "main": {
     "maintitle": "Hello, I'm John Peter Tejeda.\nI'm a Software Developer.",
     "name": "John Peter Tejeda",
-    "description": "I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "description": "",
+    "image": "profilePicture.jpg",
+    "bio": "Hey! I'm Peter, a Computer Science graduate from the University of Delaware with a concentration in Software Engineering. As a Project Engineer, I have had the chance to learn and utilize the latest technologies on the market, technologies like AWS, Angular, and C#. Currently consulting for the client PHEAA doing both frontend and backend work as a Software Developer on their team.",
     "contactmessage": "Have a question or want to get in touch?",
     "email": "johnptejeda@gmail.com",
     "phone": "302-482-9179",
@@ -16,7 +16,7 @@
       "state": "TX",
       "zip": "75025"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "",
     "resumedownload": "https://drive.google.com/file/d/1hJiG9pu1UMV7-g1jj8Is_cogIM-inE5V/view?usp=sharing",
     "social": [
       {
@@ -39,34 +39,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Trip Application",
+        "category": "(private repo for now) A mobile application for IOS and Android using React-Native",
+        "image": "workInProgress.png",
+        "url": "http://localhost:3000/#portfolio"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Dating Application",
+        "category": "A C# full stack application that matches users based on their interests.",
+        "image": "DatingApp.png",
+        "url": "https://github.com/Teyhey/Dating-App"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Finding Influencers",
+        "category": "Final project for the Machine Learning course I took my senior year.",
+        "image": "results.png",
+        "url": "https://github.com/Teyhey/ML_FinalProject"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "title": "Estuary Adventures",
+        "category": "Java MVC application featuring 3 educational mini-games.",
         "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "url": "https://github.com/Teyhey/Estuary-Adventures"
       }
     ]
   }
