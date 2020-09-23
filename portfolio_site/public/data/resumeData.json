@@ -48,7 +48,7 @@
         "title": "Dating Application",
         "category": "A C# full stack application that matches users based on their interests.",
         "image": "DatingApp.png",
-        "url": "https://github.com/Teyhey/Dating-App"
+        "url": "https://sizzledating.azurewebsites.net/"
       },
       {
         "title": "Finding Influencers",
@@ -57,10 +57,10 @@
         "url": "https://github.com/Teyhey/ML_FinalProject"
       },
       {
-        "title": "Estuary Adventures",
-        "category": "Java MVC application featuring 3 educational mini-games.",
+        "title": "WoundCare",
+        "category": "Created both IOS and Android prototype application that analyzes a picture of a wound with the goal to determine if the wound is healing or not.",
         "image": "smirkspace.jpg",
-        "url": "https://github.com/Teyhey/Estuary-Adventures"
+        "url": "https://sites.udel.edu/jtejeda/"
       }
     ]
   }
