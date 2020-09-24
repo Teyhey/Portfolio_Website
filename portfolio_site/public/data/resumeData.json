@@ -41,7 +41,7 @@
       {
         "title": "Trip Application",
         "category": "(private repo for now) A mobile application for IOS and Android using React-Native",
-        "image": "workInProgress.png",
+        "image": "TripApp.png",
         "url": "http://localhost:3000/#portfolio"
       },
       {
@@ -51,15 +51,9 @@
         "url": "https://sizzledating.azurewebsites.net/"
       },
       {
-        "title": "Finding Influencers",
-        "category": "Final project for the Machine Learning course I took my senior year.",
-        "image": "results.png",
-        "url": "https://github.com/Teyhey/ML_FinalProject"
-      },
-      {
         "title": "WoundCare",
         "category": "Created both IOS and Android prototype application that analyzes a picture of a wound with the goal to determine if the wound is healing or not.",
-        "image": "smirkspace.jpg",
+        "image": "WoundCare.png",
         "url": "https://sites.udel.edu/jtejeda/"
       }
     ]
