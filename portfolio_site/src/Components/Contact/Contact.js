@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCheck, faEnvelope } from '@fortawesome/free-solid-svg-icons';
+import { faAlignCenter, faCheck, faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import * as emailjs from 'emailjs-com';
 
 class Contact extends Component {
@@ -85,6 +85,7 @@ class Contact extends Component {
     }
 
     return (
+      <div style={{justifyContent:'center', alignItems:'center'}}>
       <section id='contact'>
         <FontAwesomeIcon className='submit' icon={faEnvelope} size='5x' />
         <div className='row section-head'>
@@ -163,6 +164,7 @@ class Contact extends Component {
           </div>
         </div>
       </section>
+      </div>
     );
   }
 }

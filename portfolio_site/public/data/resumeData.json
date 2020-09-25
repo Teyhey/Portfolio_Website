@@ -1,7 +1,7 @@
 {
   "main": {
     "maintitle": "Hello, I'm John Peter Tejeda.\nI'm a Software Developer.",
-    "name": "John Peter Tejeda",
+    "name": "Peter Tejeda",
     "description": "",
     "image": "profilePicture.jpg",
     "bio": "Hey! I'm Peter, a Computer Science graduate from the University of Delaware with a concentration in Software Engineering. As a Project Engineer, I have had the chance to learn and utilize the latest technologies on the market, technologies like AWS, Angular, and C#. Currently consulting for the client PHEAA doing both frontend and backend work as a Software Developer on their team.",
@@ -52,7 +52,7 @@
       },
       {
         "title": "WoundCare",
-        "category": "Created both IOS and Android prototype application that analyzes a picture of a wound with the goal to determine if the wound is healing or not.",
+        "category": "Created a mobile prototype application that analyzes a picture of a wound to determine if the wound is healing or not.",
         "image": "WoundCare.png",
         "url": "https://sites.udel.edu/jtejeda/"
       }
