@@ -1,23 +1,23 @@
 {
   "main": {
-    "maintitle": "Hello, I'm John Peter Tejeda.\nI'm a Software Developer.",
+    "maintitle": "Hello, I'm John Peter Tejeda.\nI'm a Software Engineer.",
     "name": "Peter Tejeda",
     "description": "",
     "image": "profilePicture.jpg",
-    "bio": "Hey! I'm Peter, a Computer Science graduate from the University of Delaware with a concentration in Software Engineering. As a Project Engineer, I have had the chance to learn and utilize the latest technologies on the market, technologies like AWS, Angular, and C#. Currently consulting for the client PHEAA doing both frontend and backend work as a Software Developer on their team.",
+    "bio": "Hey! I'm Peter, a Senior software engineer with 3 years of experience in developing, deploying, and managing microservices using Java. Demonstrated proficiency in full-stack development using Node.js, React, and MongoDB. Strong understanding of test driven development and testing frameworks. Proven experience in developing applications for production and working closely with cross-functional teams.",
     "contactmessage": "Have a question or want to get in touch?",
     "email": "johnptejeda@gmail.com",
     "phone": "302-482-9179",
     "github": "https://github.com/teyhey",
     "project": "",
     "address": {
-      "street": "(Your Street)",
-      "city": "Plano",
+      "street": "",
+      "city": "Austin",
       "state": "TX",
-      "zip": "75025"
+      "zip": ""
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1hJiG9pu1UMV7-g1jj8Is_cogIM-inE5V/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/12gVkAFggqTIUDompxkRY3oG89gm9yhl1/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
