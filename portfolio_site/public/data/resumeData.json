@@ -1,23 +1,23 @@
 {
   "main": {
-    "maintitle": "Hello, I'm John Peter Tejeda.\nI'm a Software Engineer.",
+    "mainTitle": "Hello, I'm John Peter Tejeda.\nI'm a Software Engineer.",
     "name": "Peter Tejeda",
     "description": "",
-    "image": "profilePicture.jpg",
+    "image": "PortfolioPicture.png",
     "bio": "Hey! I'm Peter, a Senior software engineer with 3 years of experience in developing, deploying, and managing microservices using Java. Demonstrated proficiency in full-stack development using Node.js, React, and MongoDB. Strong understanding of test driven development and testing frameworks. Proven experience in developing applications for production and working closely with cross-functional teams.",
-    "contactmessage": "Have a question or want to get in touch?",
+    "contactMessage": "Have a question or want to get in touch?",
     "email": "johnptejeda@gmail.com",
     "phone": "302-482-9179",
     "github": "https://github.com/teyhey",
     "project": "",
     "address": {
       "street": "",
-      "city": "Austin",
+      "city": "New Braunfels",
       "state": "TX",
-      "zip": ""
+      "zip": "78130"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/12gVkAFggqTIUDompxkRY3oG89gm9yhl1/view?usp=sharing",
+    "resumeDownload": "https://drive.google.com/file/d/12gVkAFggqTIUDompxkRY3oG89gm9yhl1/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",

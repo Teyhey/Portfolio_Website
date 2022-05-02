@@ -9,7 +9,7 @@ class Home extends Component {
       var project = this.props.data.project;
       var github = this.props.data.github;
       var name = this.props.data.name;
-      var mainTitle = this.props.data.maintitle;
+      var mainTitle = this.props.data.mainTitle;
       var description = this.props.data.description;
       var city = this.props.data.address.city;
       var networks = this.props.data.social.map(function (network) {
@@ -61,10 +61,10 @@ class Home extends Component {
         <div className='row banner'>
           <div className='banner-text'>
             <text className='responsive-headline' class="text">
-            Hello, I'm 
+            Hello, I'm
             <span class="highlight"> {name}.</span>
             <br></br>
-            I'm a software developer.</text>
+            I'm a Software Engineer.</text>
             <ul className='social'>
               <div id='project-btn'>
                 <a href='#about' className='smoothscroll'>

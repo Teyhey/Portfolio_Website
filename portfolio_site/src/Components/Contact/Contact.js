@@ -81,7 +81,7 @@ class Contact extends Component {
 
 
     if (this.props.data) {
-      var message = this.props.data.contactmessage;
+      var message = this.props.data.contactMessage;
     }
 
     return (

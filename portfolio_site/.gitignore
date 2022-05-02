@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+portfolio_site/node_modules
+portfolio_site/build
 /.pnp
 .pnp.js
 
